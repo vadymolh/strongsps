@@ -1,0 +1,2 @@
+SEARCH_RANGE: 1.7*10^8 
+A_BASE: 2 3 5
